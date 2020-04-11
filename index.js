@@ -1,0 +1,1 @@
+require('./sbin/server.js')
